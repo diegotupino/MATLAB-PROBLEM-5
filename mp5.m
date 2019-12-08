@@ -1,7 +1,7 @@
 %Range
 
 n = (0:199);
-x = (sin((3*pi.*n)/100));
+x = input('Enter a value of x(n): ');
 y = zeros(size(x));
 
 %Values of 'y'
